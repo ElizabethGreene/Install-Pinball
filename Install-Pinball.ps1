@@ -12,9 +12,9 @@
 # Optional instructions. 
 # To install without administrator rights, specify a user writable destination folder 
 # with the -DestinationFolder parameter
-# Install-Destination.ps1 -SourcePath D:\i386 -DestinationFolder "C:\users\egreene\pinball"
+# Install-Pinball.ps1 -SourcePath D:\i386 -DestinationFolder "C:\users\egreene\pinball"
 # 
-# Elizabeth Greene 2024 <elizabeth.a.greene@gmail.com>
+# Elizabeth Greene 2025 <elizabeth.a.greene@gmail.com>
 # v1.0
 # https://github.com/ElizabethGreene/Install-Pinball
 #
