@@ -18,7 +18,7 @@ This installs the Space Cadet Pinball game to C:\Program Files (x86)\Space Cadet
 To install without administrator rights, specify a user writable destination folder 
 with the -DestinationFolder parameter
 
- `Install-Destination.ps1 -SourcePath D:\i386 -DestinationFolder "C:\users\egreene\pinball"`
+ `Install-Pinball.ps1 -SourcePath D:\i386 -DestinationFolder "C:\users\egreene\pinball"`
 
  This installs Pinball and creates a per-user start menu shortcut.
 
